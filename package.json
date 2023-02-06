@@ -31,7 +31,7 @@
     "@mantine/modals": "^5.2.0",
     "@mantine/notifications": "^5.2.0",
     "@table-library/react-table-library": "^4.0.11",
-    "@tabler/icons": "^1.82.0",
+    "@tabler/icons": "^2.2.0",
     "axios": "^0.27.2",
     "json-server": "^0.17.0",
     "mem": "^9.0.2",
